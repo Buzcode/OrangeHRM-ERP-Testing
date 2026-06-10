@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "b3b39188-c4e6-4e28-baef-d6e902f90449",
+    "name": "OrangeHRM Data Generator",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "36773973",
+    "_collection_link": "https://go.postman.co/collection/36773973-b3b39188-c4e6-4e28-baef-d6e902f90449?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Generate Random Employee",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
