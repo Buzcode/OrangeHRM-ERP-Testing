@@ -38,7 +38,6 @@ Using this collection, I dynamically retrieve randomized employee credentials (F
 I tracked the identified bugs inside **Jira** (Project: `OrangeHRM ERP`) to simulate professional Agile workflows.
 
 ### Project Kanban Board
-*(Insert your Jira Kanban Board screenshot here)*
 ![Jira Kanban Board](./jira-screenshots/jira_board.png)
 
 ### Logged Defects:
